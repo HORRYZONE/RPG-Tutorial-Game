@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Crouch/Crouh_Walk.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Crouch/Crouch_Idle.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Crouch/CrouchBlendSpace1D.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Locomotion/Walk_Stop.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Locomotion/Idle_Break.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/ABP_RPGCharacter.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Lean/Lean_Left.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Lean/Lean_Right.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Animation/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Iron_Manny_02.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/Mannequins/Materials/Instances/Manny/Iron_Manny_01.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Walk_Stop.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Idle_Break.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Crouh_Walk.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Crouch_Idle.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Locomotion/Idle_Break.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Locomotion/Walk_Stop.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Crouch/Crouh_Walk.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Crouch/Crouch_Idle.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/ABP_RPGCharacter.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/RPGTutorial/Content/Characters/RPG_Character/Crouch/CrouchBlendSpace1D.uasset"
+			]
+		}
+	]
+}
